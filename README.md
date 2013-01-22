@@ -1,6 +1,6 @@
 # TurbolinksTransition
 
-Just read [this](http://caarlos0.github.com/posts/animating-page-transitions-in-turbolinks/)
+Just read [this](http://caarlos0.github.com/posts/animating-page-transitions-in-turbolinks/).
 
 ## Installation
 
