@@ -18,7 +18,26 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Just add the id `content` to your 'master div', for example, in your
+`application.html.erb`:
+
+```erb
+<div class="container" id="content">
+  <%= yield %>
+</div>
+```
+
+And import the JS:
+
+```coffeescript
+#= require jquery
+#= require jquery_ujs
+#= require turbolinks
+#= require turbolinks_transitions
+#= require_tree .
+```
+
+Thats it, you're now ready to roll.
 
 ## Contributing
 
