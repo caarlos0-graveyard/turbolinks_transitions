@@ -9,7 +9,7 @@ Gem::Specification.new do |gem|
   gem.authors       = ["Carlos Alexandro Becker"]
   gem.email         = ["caarlos0@gmail.com"]
   gem.description   = %q{Easily add a fade animation turbolinks page transitions}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.summary       = %q{Adds a pretty fadeIn/Out effect while turbolinks change the page for you.}
   gem.homepage      = "http://caarlos0.github.com"
 
   gem.files         = Dir["lib/assets/javascripts/*.js.coffee", "lib/*", "README.md"]
