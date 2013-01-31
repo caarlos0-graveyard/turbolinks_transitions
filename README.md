@@ -1,12 +1,12 @@
 # TurbolinksTransition
 
-TODO: Write a gem description
+Just read [this](http://caarlos0.github.com/posts/animating-page-transitions-in-turbolinks/).
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'turbolinks_transition'
+    gem 'turbolinks_transitions'
 
 And then execute:
 
@@ -14,7 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install turbolinks_transition
+    $ gem install turbolinks_transitions
 
 ## Usage
 
