@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |gem|
   gem.name          = "turbolinks_transitions"
-  gem.version       = "0.0.3"
+  gem.version       = "0.0.4"
   gem.authors       = ["Carlos Alexandro Becker"]
   gem.email         = ["caarlos0@gmail.com"]
   gem.description   = %q{Easily add a fade animation turbolinks page transitions}
