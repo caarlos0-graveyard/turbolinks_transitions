@@ -1,4 +1,4 @@
-$(document).on 'page:fetch page:restore', ->
+$(document).on 'page:fetch', ->
   $('#content').fadeOut 'slow'
 
 $(document).on 'page:change', ->
