@@ -1,5 +1,5 @@
 $(document).on 'page:fetch', ->
   $('#content').fadeOut 'slow'
 
-$(document).on 'page:change', ->
+$(document).on 'page:restore', ->
   $('#content').fadeIn 'slow'
