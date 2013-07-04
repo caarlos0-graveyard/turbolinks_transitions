@@ -4,6 +4,10 @@ Just read [this](http://caarlos0.github.com/posts/animating-page-transitions-in-
 
 ![live example](http://dl.dropbox.com/u/247142/blog/lol/turbolinks_transition.gif)
 
+> notice the really fast fade!
+
+[Live example](http://wealcash.com).
+
 ## Installation
 
 Add this line to your application's Gemfile:
