@@ -2,11 +2,7 @@
 
 Just read [this](http://caarlos0.github.com/posts/animating-page-transitions-in-turbolinks/).
 
-![live example](http://dl.dropbox.com/u/247142/blog/lol/turbolinks_transition.gif)
-
-> notice the really fast fade!
-
-[Live example](http://wealcash.com).
+> This gem is not actively maintained anymore.
 
 ## Installation
 
