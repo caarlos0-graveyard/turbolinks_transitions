@@ -1,8 +1,9 @@
+> **NOTE:** This gem is not actively maintained anymore. Check out
+[nprogress-rails](https://github.com/caarlos0/nprogress-rails) instead.
+
 # TurbolinksTransition
 
 Just read [this](http://caarlos0.github.com/posts/animating-page-transitions-in-turbolinks/).
-
-> This gem is not actively maintained anymore.
 
 ## Installation
 
